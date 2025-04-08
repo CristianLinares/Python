@@ -1,4 +1,4 @@
-import requests
+Import requests
 import time
 
 BOT_TOKEN = "7992107638:AAFZYhfHfnSh8Ns4xEoIQHS3oRX7Jjw-DQc"
