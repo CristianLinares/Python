@@ -1,4 +1,4 @@
-import requests
+
 import time
 
 BOT_TOKEN = "7992107638:AAFZYhfHfnSh8Ns4xEoIQHS3oRX7Jjw-DQc"
@@ -31,4 +31,3 @@ def analizar_y_enviar():
 while True:
     analizar_y_enviar()
     time.sleep(300)
-error completo
