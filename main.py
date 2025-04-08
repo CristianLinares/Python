@@ -31,3 +31,4 @@ def analizar_y_enviar():
 while True:
     analizar_y_enviar()
     time.sleep(300)
+error completo
