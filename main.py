@@ -27,3 +27,4 @@ def analizar_y_enviar():
 # Ciclo automático que revisa cada 5 minutos (300 segundos)
 while True:
     analizar_y_enviar()
+cambio forzado
