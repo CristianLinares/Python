@@ -1,4 +1,4 @@
-import solicitude
+import requests
 import time
 
 BOT_TOKEN = "7992107638:AAFZYhfHfnSh8Ns4xEoIQHS3oRX7Jjw-DQc"
@@ -23,7 +23,7 @@ def analizar_y_enviar():
         "*Pick:* Más de 75.5 puntos totales\n"
         "*Stake:* 8/10\n"
         "*Confianza:* Alta\n"
-        "*Probabilidad estimada:* 73%"
+        "*Probabilidad estimada: 73%*"
     )
     enviar_mensaje(pick)
 
@@ -31,4 +31,3 @@ def analizar_y_enviar():
 while True:
     analizar_y_enviar()
     time.sleep(300)
-# cambio forzado
